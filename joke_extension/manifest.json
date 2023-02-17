@@ -1,0 +1,11 @@
+{
+    "name":"jokes extension",
+    "description":"Make your life humourous everyday",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"joke.png"
+
+    }
+}
